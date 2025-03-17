@@ -15,7 +15,7 @@ Performs searches based on a wordlist in order to look for password leaks in a 2
     <img src="/assets/KeyFinder.png">
 </p>
 
-## 🔑 Pass Generator
+## 🔒 Pass Generator
 Generates wordlists based on a organization name and year, current permutations:
 ```
 python3 pass_generator.py -o mercadona -y 2023 2024 2025 > passwords.txt
